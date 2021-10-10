@@ -6,4 +6,5 @@
 
 ## DEMO
 
-![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/80502023/136696418-36dadb89-ce20-4220-9197-a39e54dddfaa.gif)
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/80502023/136696498-83986e3a-6245-416a-9dc0-9109bf39a36e.gif)
