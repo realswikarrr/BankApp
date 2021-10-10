@@ -1,5 +1,9 @@
-![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/80502023/136696361-9148506e-fbc5-4a7f-86f8-d9adf8179214.gif)
+
 
 # BankApp
 
 ## Made Using Simple HTML / CSS and JavaScript
+
+## DEMO
+
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/80502023/136696418-36dadb89-ce20-4220-9197-a39e54dddfaa.gif)
